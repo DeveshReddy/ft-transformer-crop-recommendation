@@ -1,0 +1,1 @@
+# Paper Assets (Auto-generated)\n\nGenerated files:\n- fig_training_curves.png\n- fig_confusion_matrix.png\n- fig_per_class_f1_top15.png\n- paper_metrics_summary.json\n\nBest validation epoch: 69\n\nKey metrics at best validation epoch:\n- Train Acc: 0.8980, Train F1: 0.8971\n- Val Acc: 0.9039, Val F1: 0.9028\n- Test Acc: 0.9054, Test F1: 0.9042\n
